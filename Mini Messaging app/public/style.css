@@ -1,0 +1,25 @@
+*{
+    background-color: whitesmoke;
+    text-align: center;
+
+}
+#messages{
+    text-align: center;
+    
+}
+#box1{
+    padding: 4%;
+    height: 20%;
+}
+.main-box{
+    background-color:rgb(231, 27, 153) ;
+}
+
+.display{
+    border: 1px solid red;
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 15%;
+}
